@@ -8,18 +8,9 @@
   "author": "James Daniel <whale@rakujira.jp>",
   "license": "MIT",
   "scripts": {
-    "build": "gulp build"
+    "build": "fantasticon"
   },
   "dependencies": {
-    "gulp-consolidate": "^0.2.0",
-    "gulp-iconfont": "^8.0.1",
-    "gulp-imagemin": "^3.1.1",
-    "gulp-rename": "^1.2.2",
-    "gulp-sketch": "^1.0.3",
-    "gulp-svgo": "^1.0.3",
-    "lodash": "^4.17.4"
-  },
-  "devDependencies": {
-    "gulp": "^3.9.1"
+    "fantasticon": "^1.1.1"
   }
 }
